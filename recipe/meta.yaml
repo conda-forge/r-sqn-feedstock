@@ -44,6 +44,7 @@ about:
     normalization using negative control features'. Wu Z, Aryee MJ, J Comput Biol. 2010
     Oct;17(10):1385-95 [PMID 20976876].
   license_family: LGPL
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/LGPL-3'
 
 extra:
   recipe-maintainers:
