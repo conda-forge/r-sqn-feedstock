@@ -1,11 +1,11 @@
-About r-sqn
-===========
+About r-sqn-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sqn-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=SQN
 
 Package license: LGPL (>= 2.0)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sqn-feedstock/blob/main/LICENSE.txt)
 
 Summary: Normalization based a subset of negative control probes as described in 'Subset quantile normalization using negative control features'. Wu Z, Aryee MJ, J Comput Biol. 2010 Oct;17(10):1385-95 [PMID 20976876].
 
